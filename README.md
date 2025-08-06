@@ -1,7 +1,8 @@
 
 # Ubuntu boot animation on Android
 
-This is a custom Ubuntu boot animation made for Android devices. It shows the Ubuntu startup look when your phone boots.
+This is a custom Ubuntu boot animation made for Android devices. It shows the Ubuntu startup look when your phone boots.  
+You can view a preview of the animation on the releases page.
 
 ---
 
